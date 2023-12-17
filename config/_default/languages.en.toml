@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Blue Oyster Cult"
 
 [params]
   displayName = "EN"
@@ -14,14 +14,14 @@ title = "Blowfish"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Blowfish"
+  name = "Blue Oyster Cult"
   image = "img/blowfish_logo.png"
   headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
   bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
   links = [
     { twitter = "https://twitter.com/burufugu" },
     { mastodon = "https://masto.ai/@blowfish" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { github = "https://githubfast.com/nunocoracao/blowfish" },
   ]
 
   
